@@ -9,6 +9,7 @@
     "seed:clear": "node seeder.js --clear",
     "seed:admin": "node seeder.js --admin"
   },
+  "author":"Neeraj Kumar",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",

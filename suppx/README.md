@@ -1,6 +1,6 @@
-# SuppX Clone — MERN Stack E-Commerce
+# SuppX MERN Stack E-Commerce
 
-A full-featured supplements & vitamins e-commerce website built with the MERN stack (MongoDB, Express, React, Node.js), inspired by [suppx.co.in](https://www.suppx.co.in/).
+A full-featured supplements & vitamins e-commerce website built with the MERN stack (MongoDB, Express, React, Node.js)
 
 ---
 
